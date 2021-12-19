@@ -1,5 +1,5 @@
 # Regression-Model
-A predictive model on a continuous response variable.
+A predictive model on a continuous response variable. Predicting birth weight.
 
 Assignment:
 
